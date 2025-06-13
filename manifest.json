@@ -1,0 +1,34 @@
+{
+  "name": "Srujan's E-commerce PWA",
+  "short_name": "Kumo",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+
+  "icons": [
+    {
+      "src": "product/logo1.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  
+  ],
+
+"screenshots": [
+  {
+    "src": "product/desktop.png",
+    "sizes": "919x525",
+    "type": "image/png",
+    "form_factor": "wide"
+  },
+  {
+    "src": "product/mobile.png",
+    "sizes": "525x918",
+    "type": "image/png",
+    "form_factor": "narrow"
+  }
+]
+}
