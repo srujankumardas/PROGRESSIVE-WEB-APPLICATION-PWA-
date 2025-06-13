@@ -116,3 +116,5 @@ Optimized for performance using cache-first strategy
 Fully compliant with PWA standards
 
 This task significantly enhanced my understanding of PWA architecture, caching mechanisms, and browser APIs. It also sharpened my debugging skills using DevTools and helped me appreciate the power of service workers and the importance of performance optimization in web development.
+
+output- ![Image](https://github.com/user-attachments/assets/cb3fad90-9ded-4ff9-ba05-2896c1efa2a0)
